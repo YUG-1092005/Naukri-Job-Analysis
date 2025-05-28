@@ -7,10 +7,10 @@ This repository includes **data scraping, cleaning, and an Excel dashboard** tha
 ---
 
 ## 📁 Project Structure
-**1. Final_data sheet**: It contains data which is taken from the Naukri.com using Web Scraping.
-**2. Degree_Exploded sheet**: It contains same, data but here columns of Bachelor's and PG degrees are being exploded using Power Quiry. 
-**4. Final_Data_Analysis sheet**: This sheet contains all necessary insights and their repective plots from the data.
-**5. Dashboard sheet**: This sheet has final dashboard.
+- **1. Final_data sheet**: It contains data which is taken from the Naukri.com using Web Scraping.
+- **2. Degree_Exploded sheet**: It contains same, data but here columns of Bachelor's and PG degrees are being exploded using Power Quiry. 
+- **4. Final_Data_Analysis sheet**: This sheet contains all necessary insights and their repective plots from the data.
+- **5. Dashboard sheet**: This sheet has final dashboard.
 
 ---
 
