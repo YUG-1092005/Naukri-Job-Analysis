@@ -57,5 +57,6 @@ This repository includes **data scraping, cleaning, and an Excel dashboard** tha
 # 📌 Data Source
 
 **All data was scraped from publicly available job postings on Naukri.com for educational and research purposes only.**
+**Data extracted in range of 23rd May 2025 - 26th May 2025. The dataset is subject to change as new job postings are added**
 
 
