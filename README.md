@@ -12,7 +12,7 @@ This repository includes **data scraping, cleaning, and an Excel dashboard** tha
 - **3. Final_Data_Analysis sheet**: This sheet contains all necessary insights and their repective plots from the data.
 - **4. Dashboard sheet**: This sheet has final dashboard.
 - **5. naukri_scraper.ipynb**: This file contains basic information along with some job roles, and their corresponding code implementations are included.
-- **6. job_detail.ipynb**: The file contains information about individual job roles along with the code used to extract and process that data.
+- **6. job_detail.ipynb**: This file contains information about individual job roles along with the code used to extract and process that data.
 
 ---
 
